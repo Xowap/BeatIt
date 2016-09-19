@@ -1,0 +1,24 @@
+{
+    "author": "Hyperthese",
+    "dependencies": {},
+    "keywords": [],
+    "name": "hellowatch",
+    "pebble": {
+        "displayName": "HelloWatch",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite"
+        ],
+        "uuid": "0efebc99-cfd1-49d3-ac62-99d3347c46e2",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
