@@ -2,9 +2,9 @@
     "author": "Hyperthese",
     "dependencies": {},
     "keywords": [],
-    "name": "hellowatch",
+    "name": "beatit",
     "pebble": {
-        "displayName": "HelloWatch",
+        "displayName": "Beat It",
         "enableMultiJS": true,
         "messageKeys": [],
         "projectType": "native",
